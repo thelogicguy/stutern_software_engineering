@@ -1,0 +1,43 @@
+.header {
+    background: linear-gradient(to right, #ffcccc, #ff9999);
+    box-shadow: 3px 5px 3px black;
+    background-size: cover;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 80px;
+    text-align: center;
+    padding-left: 200px;
+    text-shadow: 3px 3px 5px black;
+    color: cornsilk;
+}
+
+table {
+    font-size: 13px;
+
+}
+
+h2 {
+    font-family: cursive;
+    font-size: 30px;
+}
+
+.paragraph {
+    font: 15px monospace;
+    font-size: 19px;
+    width: 200px;
+    padding-left: 600px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+
+
